@@ -1,0 +1,2 @@
+201,Ana Perez,2º Bachillerato,20 creditos
+202,Carlos Ruiz,1º Bachillerato,18 creditos
